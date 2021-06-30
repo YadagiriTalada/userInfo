@@ -1,0 +1,5 @@
+{
+    "REQUIRED_PARAMS_MISSED" : "Required params missed !",
+    "USER_NOT_EXISTS" : "User not exists !",
+    "INCORRECT_PASSWORD" : "Incorrect Password !"
+}
